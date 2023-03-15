@@ -15,6 +15,7 @@
 ![SCSS](https://img.shields.io/badge/SCSS-000?style=for-the-badge&logo=Sass&logoColor=CC6699) 
 ![BEM](https://img.shields.io/badge/BEM-000?style=for-the-badge&logo=BEM&logoColor=1E90FF) 
 ![JavaScript](https://img.shields.io/badge/JS-000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=PHP&logoColor=777BB4)
 ![GIT](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=Git&logoColor=F05032)
 ![NPM](https://img.shields.io/badge/NPM-000?style=for-the-badge&logo=npm&logoColor=CB3837) 
 ![GULP](https://img.shields.io/badge/GULP-000?style=for-the-badge&logo=gulp&logoColor=CF4647)
