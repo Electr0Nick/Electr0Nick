@@ -34,6 +34,8 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Electr0Nick&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![CodeWars](https://www.codewars.com/users/Electronic/badges/large)
+
 ---
 ### Ты можешь связаться со мной:
 
