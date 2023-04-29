@@ -1,10 +1,8 @@
 ## Привет! :wave:
 
-Меня зовут **Mакс**, и я начинающий Frontend-разработчик :computer:
+Меня зовут **Mакс**, и я Junior Frontend-разработчик :computer:
 
-Почти всё своё свободное время я обучаюсь, практикуюсь и ищу что-то новое в направлении Frontend-разработки :books:
-
-Планирую сменить основную сферу деятельности (в данный момент я работаю системным администратором) и ищу подходящую вакансию :mag_right:
+Я работаю, постоянно учусь и практикуюсь, очень увлекаюсь и ищу что-то новое для себя в направлении Frontend-разработки :books:
 
 [Здесь](https://github.com/Electr0Nick?tab=repositories) ты можешь познакомиться с моими пет-проектами :eyes:
 
@@ -15,19 +13,27 @@
 ![SCSS](https://img.shields.io/badge/SCSS-000?style=for-the-badge&logo=Sass&logoColor=CC6699) 
 ![BEM](https://img.shields.io/badge/BEM-000?style=for-the-badge&logo=BEM&logoColor=1E90FF) 
 ![JavaScript](https://img.shields.io/badge/JS-000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=PHP&logoColor=777BB4)
 ![GIT](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=Git&logoColor=F05032)
 ![NPM](https://img.shields.io/badge/NPM-000?style=for-the-badge&logo=npm&logoColor=CB3837) 
 ![GULP](https://img.shields.io/badge/GULP-000?style=for-the-badge&logo=gulp&logoColor=CF4647)
+
+Осваиваю в данный момент:
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![jQuery](https://img.shields.io/badge/jQuery-000?style=for-the-badge&logo=jquery&logoColor=0769AD)
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=PHP&logoColor=777BB4)
+![VUE](https://img.shields.io/badge/VUE-000?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 Дополнительно:
 
 ![VSCode](https://img.shields.io/badge/VSC-000?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC)
 ![SublimeText](https://img.shields.io/badge/SUBLIME-000?style=for-the-badge&logo=SublimeText&logoColor=FF9800)
 ![FIGMA](https://img.shields.io/badge/FIGMA-000?style=for-the-badge&logo=Figma&logoColor=F24E1E)
-![AdobePhotoshop](https://img.shields.io/badge/PS-000?style=for-the-badge&logo=AdobePhotoshop&logoColor=31A8FF)
+![AdobePhotoshop](https://img.shields.io/badge/Adobe_PS-000?style=for-the-badge&logo=AdobePhotoshop&logoColor=31A8FF)
 ![GITHUB](https://img.shields.io/badge/GITHUB-000?style=for-the-badge&logo=GitHub&logoColor=FFF)
-![Markdown](https://img.shields.io/badge/MD-000?style=for-the-badge&logo=Markdown&logoColor=FFF) 
+![GITLAB](https://img.shields.io/badge/GITLAB-000?style=for-the-badge&logo=gitlab&logoColor=F05032)
+![Markdown](https://img.shields.io/badge/MD-000?style=for-the-badge&logo=Markdown&logoColor=FFF)
+![Trello](https://img.shields.io/badge/Trello-000?style=for-the-badge&logo=trello&logoColor=0052CC) 
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Electr0Nick&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
