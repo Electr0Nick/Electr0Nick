@@ -19,11 +19,13 @@
 ![GIT](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=Git&logoColor=F05032)
 ![NPM](https://img.shields.io/badge/NPM-000?style=for-the-badge&logo=npm&logoColor=CB3837) 
 ![GULP](https://img.shields.io/badge/GULP-000?style=for-the-badge&logo=gulp&logoColor=CF4647)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 
 Изучаю в данный момент:
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 ![VUE](https://img.shields.io/badge/VUE-000?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Bitrix](https://img.shields.io/badge/Bitrix-000?style=for-the-badge)
+![MobX](https://img.shields.io/badge/MobX-000?style=for-the-badge&logo=mobx&logoColor=FF9955)
 
 Дополнительно:
 
