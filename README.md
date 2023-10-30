@@ -23,9 +23,10 @@
 
 Изучаю в данный момент:
 
-![VUE](https://img.shields.io/badge/VUE-000?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Bitrix](https://img.shields.io/badge/Bitrix-000?style=for-the-badge)
-![MobX](https://img.shields.io/badge/MobX-000?style=for-the-badge&logo=mobx&logoColor=FF9955)
+![VUE.JS](https://img.shields.io/badge/VUE.JS-000?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![NUXT.JS](https://img.shields.io/badge/NUXT.JS-000?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
+![Bitrix](https://img.shields.io/badge/Bitrix-000?style=for-the-badge&logo=beatsbydre&logoColor=C60C30)
+![MODX](https://img.shields.io/badge/MODX-000?style=for-the-badge&logo=MODX&logoColor=102C53)
 
 Дополнительно:
 
